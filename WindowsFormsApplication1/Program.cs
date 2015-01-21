@@ -8,6 +8,7 @@ namespace WindowsFormsApplication1
     static class Program
     {
         //edit-1
+        //edit-2
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
